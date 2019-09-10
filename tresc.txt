@@ -1,0 +1,5 @@
+Program powinien dostarczać interfejs graficzny do wyświetlania w postaci wykresu (w czasie rzeczy-wistym) sygnałów:
+- prostokątny
+- piłokształtny
+Dla obu sygnałów powinna być możliwość zadania: amplitudy, okresu, wypełnienia i składowej stałej.
+Program powinien pozwalać na płynną zmianę szybkości aktualizacji próbek sygnałowych.
